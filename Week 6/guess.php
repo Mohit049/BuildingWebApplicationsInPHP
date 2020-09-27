@@ -1,6 +1,6 @@
 <html>
 <body>
-<title>Mohit Jajware 9a7c0ca4</title>
+<title>Mohit Jajware </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
